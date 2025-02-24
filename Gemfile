@@ -10,7 +10,7 @@ gem "jbuilder"
 gem 'devise', '~> 4.9', '>= 4.9.4'
 gem 'rails-ujs'
 gem "tzinfo-data", platforms: %i[ windows jruby ]
-
+ruby '3.2.0'
 
 gem "solid_cache"
 gem "solid_queue"
